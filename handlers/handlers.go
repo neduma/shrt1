@@ -2,7 +2,7 @@ package handlers
 
 import (
   "net/http"
-  "shrt1/storages"
+  "github.com/neduma/shrt1/storages"
   "log"
 )
 

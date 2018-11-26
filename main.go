@@ -7,8 +7,8 @@ import (
   "path/filepath"
   "runtime"
 
-  "shrt1/handlers"
-  "shrt1/storages"
+  "github.com/neduma/shrt1/handlers"
+  "github.com/neduma/shrt1/storages"
   "github.com/mitchellh/go-homedir"
 )
 
